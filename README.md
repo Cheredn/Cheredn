@@ -9,6 +9,6 @@
 - SQLite  
 
 ## 📌 Мои проекты:
-- [BlogBoom](https://github.com/user/weather-api](https://blogboom.pythonanywhere.com/)  
+- [BlogBoom] https://blogboom.pythonanywhere.com/ 
 
 💬 Контакты: [Telegram](https://t.me/wwwniks) | 
