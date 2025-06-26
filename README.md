@@ -14,7 +14,4 @@
 - Креативность
 - Быстро обучаюсь  
 
-## 📌 Мои проекты:
-- [BlogBoom] https://blogboom.pythonanywhere.com/ 
-
 💬 Контакты: [Telegram](https://t.me/wwwniks) | 
