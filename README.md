@@ -8,6 +8,12 @@
 - Flask, REST API  
 - SQLite  
 
+## 👁‍🗨 Мои Soft Skills:
+- Решительность
+- Понимание задачи 
+- Креативность
+- Быстро обучаюсь  
+
 ## 📌 Мои проекты:
 - [BlogBoom] https://blogboom.pythonanywhere.com/ 
 
