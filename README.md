@@ -1,17 +1,17 @@
-# Привет! 👋 Я Станислав  
-💡 Python-разработчик, интересуюсь Backend и Frontend.
+# Hello! 👋 My name is Stanyslav 
+💡 Python-developer, I'm interested Backend and Frontend.
 
-## ✨ Мои Hard Skills:
-- Python, ООП, алгоритмы  
+## ✨ Мy Hard Skills:
+- Python, ООP, algorithms  
 - Telegram, pyrogram  
 - PyGame  
 - Flask, REST API  
 - SQLite  
 
-## 👁‍🗨 Мои Soft Skills:
-- Решительность
-- Понимание задачи 
-- Креативность
-- Быстро обучаюсь  
+## 👁‍🗨 Мy Soft Skills:
+- Вetermination
+- Understanding the task 
+- Creativity
+- I learn quickly  
 
-💬 Контакты: [Telegram](https://t.me/wwwniks) | 
+💬 Contact me: [Telegram](https://t.me/wwwniks) | 
